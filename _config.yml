@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Subaru Natsuki"
-resume_title:                   "Knight of the Dragon Kingdom Lugunica"
+resume_title:                   "Natsuki"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
